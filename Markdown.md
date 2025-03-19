@@ -1,6 +1,6 @@
 # Creating a bootable USB for Windows 10
 
-##Requirements
+## Requirements
 -A USB drive (8GB+)
 -Windwos 10 ISO
 -Rufus software
