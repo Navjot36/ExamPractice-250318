@@ -12,4 +12,4 @@ Insert the USB drive and open Rufus.
 Select your USB drive in the "Device" list.
 Use the "Select" button to choose the download ISO.
 Choose the appropriate "Partition scheme" based on your system.
-Clisk "Start" and wait for the process to complete.
+Click "Start" and wait for the process to complete.
