@@ -6,8 +6,8 @@
 -Rufus software
 
 ## Steps
-Download Winows 10 ISO from the [Microsoft website}(https://www.microsoft.com/software-download/windows10).
-Download and Install rufus from [rufus.ie](https://rufus.ie/.)
+Download Winows 10 ISO from the [Microsoft website} (https://www.microsoft.com/software-download/windows10).
+Download and Install rufus from [rufus.ie] (https://rufus.ie/.)
 Insert the USB drive and open Rufus.
 Select your USB drive in the "Device" list.
 Use the "Select" button to choose the download ISO.
