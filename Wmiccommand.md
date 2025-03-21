@@ -1,4 +1,6 @@
-[Wmic cpu.txt](https://github.com/user-attachments/files/19395644/Wmic.cpu.txt)[Wmic cpu.txt](https://github.com/user-attachments/files/19395631/Wmic.cpu.txt)# explaining the WMIC command
+# explaining the WMIC command
+[Wmic cpu.txt](https://github.com/user-attachments/files/19395644/Wmic.cpu.txt)[Wmic cpu.txt](https://github.com/user-attachments/files/19395631/Wmic.cpu.txt)
+
 
 ## Sites
 
